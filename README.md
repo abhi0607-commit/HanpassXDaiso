@@ -77,10 +77,10 @@ Used (copied to `public/assets/scenes/`):
 | File in this folder | Used as |
 |---|---|
 | `Hanpass × Daiso_ New Life in Korea.png` | Front facade, entrance scene, store map |
-| `ChatGPT Image Nov 25, 2026, 09_52_51 AM.png` | Booth 01 Arrival |
-| `ChatGPT Image Nov 25, 2026, 09_53_13 AM.png` | Booth 02 DAISO Shopping Challenge |
-| `ChatGPT Image Nov 25, 2026, 09_53_20 AM.png` | Booth 03 Hanpass Financial Life |
-| `ChatGPT Image Nov 25, 2026, 09_53_29 AM.png` | Booth 04 My New Life in Korea |
+| `Booth 01 Arrival` | Booth 01 Arrival |
+| `Booth 02 DAISO Shopping Challenge` | Booth 02 DAISO Shopping Challenge |
+| `Booth 03 Hanpass Financial Life` | Booth 03 Hanpass Financial Life |
+| `Booth 04 My New Life in Korea` | Booth 04 My New Life in Korea |
 
 **Missing — placeholders used:**
 
