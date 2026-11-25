@@ -3,7 +3,7 @@
 An interactive virtual pop-up store for a **hypothetical** experiential marketing proposal. A visitor walks
 through four booths, collects passport stamps, shops on a ₩10,000 budget, explores three financial-life
 kiosks, completes a social mission and spins a capsule lucky draw.
-
+Project Link: https://claude.ai/artifact/D99qxSrC4ph6i7JAXYXrub
 > This is a student / portfolio concept. Hanpass and DAISO have **not** approved, sponsored, launched or
 > implemented this campaign. No real payment, remittance, booking, voucher, registration or data collection happens.
 
