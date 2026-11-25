@@ -1,10 +1,20 @@
 # Hanpass × DAISO — My New Life in Korea (concept simulation)
 
-An interactive virtual pop-up store for a **hypothetical** experiential marketing proposal. A visitor walks
+## Project Background
+
+This virtual pop-up is the final phase of a larger bootcamp project centred on **Hanpass**, a financial-services platform for foreign residents in Korea. After identifying usability issues in the current app, our team moved through two further phases.
+
+### 1. App improvement
+We redesigned parts of the Hanpass app experience to address the issues we found. Changes included [briefly describe the redesigned flows or features]. The aim was to make everyday financial tasks clearer and easier for newcomers to Korea.
+
+### 2. Brand collaboration
+With the product improvements defined, we looked at how to bring more new users to Hanpass. We evaluated potential partner brands and chose **DAISO** because [e.g. its everyday, affordable products reach the same newcomers who are setting up a life in Korea]. The result is **"My New Life in Korea"**, a proposed experiential pop-up that walks visitors through arrival, a first shopping trip and their financial life, with Hanpass shown at each stage.
+
+This is an interactive virtual pop-up store for a **hypothetical** experiential marketing proposal. A visitor walks
 through four booths, collects passport stamps, shops on a ₩10,000 budget, explores three financial-life
-kiosks, completes a social mission and spins a capsule lucky draw.
+kiosks, completes a social mission, and spins a capsule lucky draw.
 Project Link: https://claude.ai/artifact/D99qxSrC4ph6i7JAXYXrub
-> This is a student / portfolio concept. Hanpass and DAISO have **not** approved, sponsored, launched or
+> This is a student/portfolio concept. Hanpass and DAISO have **not** approved, sponsored, launched or
 > implemented this campaign. No real payment, remittance, booking, voucher, registration or data collection happens.
 
 ## Run it
